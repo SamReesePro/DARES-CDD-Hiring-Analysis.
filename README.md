@@ -30,9 +30,9 @@ The Excel workbook contains the source data, analysis tables and a final dashboa
 
 Source: **DARES — Mouvements de main-d'œuvre (MMO)**.
 
-The data covers private-sector establishments in metropolitan France, excluding agriculture, temporary employment and private household employers. DARES states that the annual series are available from 2007 and can be analysed by sector, establishment size and contract type. :chatgpt-content-reference{index="0"}
+The data covers private-sector establishments in metropolitan France, excluding agriculture, temporary employment and private household employers. DARES states that the annual series are available from 2007 and can be analysed by sector, establishment size and contract type. 
 
-Official source: [DARES — Les mouvements de main-d’œuvre](https://dares.travail-emploi.gouv.fr/donnees/les-mouvements-de-main-doeuvre?utm_source=chatgpt.com)
+Official source: [DARES — Les mouvements de main-d’œuvre](https://dares.travail-emploi.gouv.fr/donnees/les-mouvements-de-main-doeuvre)
 
 ## Notes
 
